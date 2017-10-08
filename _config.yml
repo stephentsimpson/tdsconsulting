@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /tdsconsulting/
+exclude: ['README.md']
